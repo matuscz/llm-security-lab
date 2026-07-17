@@ -1,6 +1,6 @@
 ### [Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer](https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/)
 
-**TL;DR** OpenAI vyvinula varinatu ChatGPT který je určen k prompt injection. V interních testech dosahoval vysoké úspěšnosti oproti lidským hackerům.
+**TL;DR** OpenAI vyvinula interní red-teaming LLM. V interních testech dosahoval vysoké úspěšnosti oproti lidským red teamerům.
 
 * Nejvíce se zaměřuje na prompt injection
 * Oproti svým lidský hackerům vykazuje mnohem lepší schopnosti, jak sám dokládá jeden z spoluzakladatelů GPT-red:
