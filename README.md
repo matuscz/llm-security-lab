@@ -7,3 +7,4 @@ Chtěl bych si tady zapisovat poznámky okolo AI, zajimavé články a weby co j
 * [Projetky](./projekty.md) *- seznam různých zajímavých projektů*
 * [Historie](./historie.md) *- mapování mého vývoje okolo celého tohoto tématu*
 * [Poznámky](./poznámky.md) *- exkluzivní poznámky pod čarou*
+* [Zajímavé články](./zajímavé-články.md) *- zajímavé články které jsem po internetu objevil a ještě jsem je nestihl zapsat*
