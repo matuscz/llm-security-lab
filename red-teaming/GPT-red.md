@@ -11,3 +11,4 @@
 * Není ovšem dokonalý, nedokáže pořádně držet konverzaci při multishot jailbreakách (4+ zpráv) a není tak dobrý v provádění indirect prompt injection za pomocí obrázků
 * Nezrodil se taky jen tak z ničeho, OpenAI ho vyvíjí přes rok, jen to držela pod pokličkou.
 * Není překvapením že si jej nechají pro sebe a nevydají ho volně do světa.
+* [Podrobný článek o GPT-red na webu OpenAI](https://openai.com/cs-CZ/index/unlocking-self-improvement-gpt-red)
