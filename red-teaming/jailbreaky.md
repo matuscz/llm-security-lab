@@ -5,5 +5,5 @@ Seznam jailbreaků které jsem sesbíral, v závorce jejich počet. Jsou seřeza
 * ⭐⭐⭐ - Vysoké riziko: Komplexní nebo obtížně detekovatelné techniky, které mohou obejít více vrstev ochrany a být účinné proti širšímu spektru modelů.
 
 ### ⭐
-* [DAN](jailbreaky/dan.md) (13)
+* [DAN](jailbreaky/dan/README.md) (13)
 
