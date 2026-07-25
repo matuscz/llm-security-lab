@@ -1,3 +1,15 @@
 ### Zdroj těchto jailbreaků: https://github.com/0xk1h0/ChatGPT_DAN
 Seznam DAN jailbreaků:
-* 
+* [Classic DAN](Classic-DAN.txt)
+* [DAN v6](DAN-v6.txt)
+* [DAN v6.2](DAN-v6.2.txt)
+* [DAN v7](DAN-v7.txt)
+* [DAN v8](DAN-v8.txt)
+* [DAN v9](DAN-v9.txt)
+* [DAN v10](DAN-v10.txt)
+* [DAN v11](DAN-v11.txt)
+* [DUDE](DUDE.txt)
+* [Dev mode + ranti](Dev-mode-+-ranti.txt)
+* [Developer mode](Developer-mode.txt)
+* [MONGO TOM](MONGO-TOM.txt)
+* [STAN](STAN.txt)
