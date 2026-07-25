@@ -1,0 +1,2 @@
+Seznam DAN jailbreaků:
+* 
