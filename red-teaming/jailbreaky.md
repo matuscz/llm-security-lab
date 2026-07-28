@@ -3,7 +3,14 @@ Seznam jailbreaků které jsem sesbíral, v závorce jejich počet. Jsou seřeza
 * ⭐ - Nízké riziko: Jednoduché nebo snadno detekovatelné techniky, které mají omezenou účinnost.
 * ⭐⭐ - Střední riziko: Pokročilejší techniky, které mohou být účinné proti některým modelům nebo při specifickém nastavení.
 * ⭐⭐⭐ - Vysoké riziko: Komplexní nebo obtížně detekovatelné techniky, které mohou obejít více vrstev ochrany a být účinné proti širšímu spektru modelů.
+* 🎈 - Nejednotná/neznámá: Míra rizik se se liší u jednotlivých promptů, nebo nelze jednoduše určit
 
 ### ⭐
 * [DAN](jailbreaky/dan/README.md) (13)
 
+### ⭐⭐
+
+### ⭐⭐⭐
+
+### 🎈
+* [MINE](jailbreaky/mine/README.md) (?)
