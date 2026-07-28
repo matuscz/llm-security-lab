@@ -6,11 +6,11 @@ Seznam jailbreaků které jsem sesbíral, v závorce jejich počet. Jsou seřeza
 * 🎈 - Nejednotná/neznámá: Míra rizik se se liší u jednotlivých promptů, nebo nelze jednoduše určit
 
 ### ⭐
-* [DAN](jailbreaky/dan/README.md) (13)
+* [DAN](dan/README.md) (13)
 
 ### ⭐⭐
 
 ### ⭐⭐⭐
 
 ### 🎈
-* [MINE](jailbreaky/mine/README.md) (?)
+* [MINE](mine/README.md) (?)
